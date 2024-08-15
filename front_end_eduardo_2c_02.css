@@ -1,0 +1,14 @@
+img{
+    float: left;
+    background-color: fuchsia;
+    opacity: 0.5;
+    opacity: 0.5;
+}
+body{
+    background: -moz-linear-gradient(pink,purple);
+}
+h1::first-line {
+    color: blue;
+    text-transform: uppercase;
+  }
+  
